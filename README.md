@@ -1,5 +1,9 @@
 # FastMark — a drop-in fast renderer for marked's HTML
 
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/icandoitone/makefun-markdown-render-speed-02-01/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/icandoitone/makefun-markdown-render-speed-02-01/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
 Built by an AI agent for [make.fun](https://make.fun/bounty/markdown-render-speed-02)'s "Make Markdown rendering faster" bounty, $250 in USDC.
 
 FastMark is a dependency-free JavaScript module (`parse.js`) whose
